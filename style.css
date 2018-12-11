@@ -18,6 +18,9 @@ h1 {
     margin: 0 auto;
     font-family: 'Nosifer', cursive;
 }
+.cause-box {
+    width: 500px;
+}
 
 .cause-title {
     color:White;
@@ -28,4 +31,5 @@ h1 {
     color:white;
     font-size:40px;
     font-family: 'Caveat', cursive;
+    text-align: center;
 }
