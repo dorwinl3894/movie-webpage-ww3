@@ -22,8 +22,10 @@ h1 {
 .cause-title {
     color:White;
     font-size:50px;
+    font-family: 'Caveat', cursive;
 }
 .cause {
     color:white;
     font-size:40px;
+    font-family: 'Caveat', cursive;
 }
