@@ -2,13 +2,12 @@
   padding:0px;
   margin:0px;
 }
-.image {
+body {
   background-image: url("images/background.jpg");
-  height:100vh;
-  width: 100vw;
-  background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
+  height: 100vh;
 }
 
 h1 {
@@ -19,7 +18,7 @@ h1 {
     font-family: 'Nosifer', cursive;
 }
 .cause-box {
-    width: 500px;
+    display: flex;
 }
 
 .cause-title {
@@ -32,4 +31,9 @@ h1 {
     font-size:40px;
     font-family: 'Caveat', cursive;
     text-align: center;
+}
+
+.pic {
+    width: 500px;
+    height: 600px;
 }
