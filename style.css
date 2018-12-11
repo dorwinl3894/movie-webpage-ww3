@@ -13,3 +13,12 @@ h1 {
     text-align: center;
     margin: 0 auto;
 }
+
+.cause-title {
+    color:White;
+    font-size:50px;
+}
+.cause {
+    color:white;
+    font-size:40px;
+}
